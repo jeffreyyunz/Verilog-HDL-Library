@@ -1,11 +1,6 @@
-//==================================================================================================
-//  Filename      : fulladder.v
-//  Created On    : 2021-04-12 09:16:38
-//  Last Modified : 2021-04-12 09:57:56
-//  Revision      : 
-//  Author        : Rongye
-//
-//  Description   : a one-bit full adder
-//
-//
-//==================================================================================================
+Project       : fulladder
+Created On    : 2021-04-12
+Author        : Rongye
+Description   : a one-bit full adder
+
+* .zip is the vivado project
