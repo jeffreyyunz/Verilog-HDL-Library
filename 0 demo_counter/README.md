@@ -1,3 +1,6 @@
-依据规范写的一个DEMO：计数器，从0计到15。
-
-作者：Rong晔
+Project : demo_counter<br />
+Created : 2021-03-23<br />
+Author : Rongye<br />
+Description : Language specification template<br />
+<br />
+**.zip is the vivado project.**
