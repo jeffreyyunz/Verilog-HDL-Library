@@ -1,12 +1,10 @@
 //==================================================================================================
 //  Filename      : demo_counter.v
-//  Created On    : 2021-03-23 10:51:14
-//  Last Modified : 2021-03-23 14:24:01
-//  Revision      : 1.0
+//  Created On    : 2021-03-23 
+//  Version       : V 1.0
 //  Author        : Rongye
-//
 //  Description   : Language specification template
-//
+//  Modification  ：
 //
 //==================================================================================================
 module DEMO_COUNTER(
