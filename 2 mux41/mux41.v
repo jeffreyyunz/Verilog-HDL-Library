@@ -5,7 +5,7 @@
 //  Version       : V 1.0
 //  Author        : Rongye
 //  Description   : a 4 to 1 multiplexer 
-//  Modification  ：
+//  Modification  :
 //
 //==================================================================================================
 module MUX41(
@@ -23,7 +23,7 @@ module MUX41(
 	input          B;
 	input          C;
 	input          D;
-    input  [1:0]   Sel;
+  	input  [1:0]   Sel;
     
 	output Mux_out;
 	
