@@ -5,7 +5,7 @@
 //  Version       : V 1.0
 //  Author        : Rongye
 //  Description   : a 4 to 1 multiplexer 
-//  Modification  £º
+//  Modification  ï¼š
 //
 //==================================================================================================
 module MUX41(
