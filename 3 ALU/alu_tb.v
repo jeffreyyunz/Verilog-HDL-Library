@@ -53,8 +53,8 @@ module ALU_tb(
      initial
      begin
      // Initialize Inputs
-         Clk = 0;
-         rst_n = 0;
+         Clk = 1'b0;
+         rst_n = 1'b0;
          A = 'b0;
          B = 'b0;
          Cin = 1'b0;
@@ -62,7 +62,7 @@ module ALU_tb(
          Mode = 1'b0;
          
          #100;
-         rst_n = 1;
+         rst_n = 1'b1;
      // test 1_1 - arithmetic mode(transfer A).
          // set A = 3, B = 6, Cin = 0: result = 3 (4'b0011) carry out = 0;
          #20;
