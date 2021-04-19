@@ -69,7 +69,7 @@ module SEQDET_SHIFT_tb;
         $stop;
     end
     
-    always @ (posedge Clk) // ÒÆÎ»Êä³öÂëÁ÷
+    always @ (posedge Clk) // sequence 
     begin    
         if(!rst_n)
             data='b1100_1101_0001_0010_0100;
