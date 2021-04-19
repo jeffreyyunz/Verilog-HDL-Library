@@ -1,0 +1,4 @@
+Vivado Simulator 2019.2
+Time resolution is 1 ps
+$stop called at time : 821 ns : File "C:/Users/Rongye/OneDrive/FPGA/VerilogHDL/Project/FSM_s3/FSM_s3.srcs/sim_1/new/fsm_s3_tb.v" Line 111
+$stop called at time : 821 ns : File "C:/Users/Rongye/OneDrive/FPGA/VerilogHDL/Project/FSM_s3/FSM_s3.srcs/sim_1/new/fsm_s3_tb.v" Line 111
