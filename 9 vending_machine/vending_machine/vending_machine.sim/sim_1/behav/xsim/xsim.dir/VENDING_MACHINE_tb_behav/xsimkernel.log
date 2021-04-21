@@ -1,0 +1,7 @@
+Running: xsim.dir/VENDING_MACHINE_tb_behav/xsimk.exe -simmode gui -wdb VENDING_MACHINE_tb_behav.wdb -simrunnum 0 -socket 63990
+Design successfully loaded
+Design Loading Memory Usage: 5964 KB (Peak: 5964 KB)
+Design Loading CPU Usage: 61 ms
+Simulation completed
+Simulation Memory Usage: 6576 KB (Peak: 6576 KB)
+Simulation CPU Usage: 61 ms

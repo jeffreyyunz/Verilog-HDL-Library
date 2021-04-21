@@ -1,0 +1,3 @@
+Vivado Simulator 2019.2
+Time resolution is 1 ps
+$stop called at time : 801 ns : File "C:/Users/Rongye/OneDrive/FPGA/VerilogHDL/Project/vending_machine/vending_machine.srcs/sim_1/new/vending_machine_tb.v" Line 117
